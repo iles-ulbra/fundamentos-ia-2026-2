@@ -1,0 +1,31 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ⚠️ GABARITOS FORA DO REPOSITÓRIO
+# Os alunos clonam este repositório. Se os gabaritos entrarem aqui, eles ficam
+# disponíveis antes da entrega — e, uma vez commitados, continuam no histórico
+# mesmo que sejam apagados depois.
+# Os gabaritos são distribuídos pelo AVA, onde a publicação é controlada.
+# Para versionar um gabarito específico, comente a linha abaixo.
+*-GABARITO.ipynb
+
+# Saídas geradas pelos laboratórios
+teste-ambiente.png
+*.png
+!docs/**/*.png
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
+desktop.ini
