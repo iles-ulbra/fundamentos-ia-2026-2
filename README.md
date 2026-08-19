@@ -1,7 +1,9 @@
-# Fundamentos de Inteligência Artificial — 2026.2 · Turma A
+# Fundamentos de Inteligência Artificial — 2026.2
 
 Laboratórios da disciplina. **ILES/ULBRA Itumbiara** · Sistemas de Informação e Engenharia
 de Software · Prof. Leonardo Garcia Marques.
+
+Serve às **duas turmas**: A às terças-feiras, B às quartas.
 
 ---
 
@@ -12,7 +14,7 @@ as tem, siga o roteiro entregue em aula antes de continuar.
 
 ```bash
 git clone <endereço-deste-repositório>
-cd fundamentos-ia-2026-2-a
+cd fundamentos-ia-2026-2
 uv sync
 ```
 
@@ -48,7 +50,7 @@ O navegador abre; entre em `notebooks/` e escolha o laboratório.
 ## O que tem aqui
 
 ```
-fundamentos-ia-2026-2-a/
+fundamentos-ia-2026-2/
 ├── README.md                  este arquivo
 ├── pyproject.toml             o que o projeto precisa
 ├── uv.lock                    as versões exatas que todos vamos usar
@@ -65,8 +67,8 @@ fundamentos-ia-2026-2-a/
 | Lab | Aula | Tema | Bibliotecas |
 |-----|------|------|-------------|
 | **01** | — | Python para quem já programa: do C/Java ao Python | só a biblioteca padrão |
-| **02** | 11/08 | Busca não informada: BFS e DFS em um labirinto | só a biblioteca padrão |
-| **03** | 18/08 | Busca informada: custo uniforme, gulosa e A\* | só a biblioteca padrão |
+| **02** | 11–12/08 | Busca não informada: BFS e DFS em um labirinto | só a biblioteca padrão |
+| **03** | 18–19/08 | Busca informada: custo uniforme, gulosa e A\* | só a biblioteca padrão |
 
 > O **lab01** é a base para os demais. Se você programa em C, Java ou pseudocódigo mas
 > nunca escreveu Python, comece por ele — ele termina com você implementando, sem saber,

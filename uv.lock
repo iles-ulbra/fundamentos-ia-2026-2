@@ -154,7 +154,7 @@ wheels = [
 ]
 
 [[package]]
-name = "fundamentos-ia-2026-2-a"
+name = "fundamentos-ia-2026-2"
 version = "0.1.0"
 source = { virtual = "." }
 

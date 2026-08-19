@@ -12,7 +12,7 @@ import sys
 
 def main() -> None:
     print("=" * 52)
-    print("  Fundamentos de IA — 2026.2 — Turma A")
+    print("  Fundamentos de IA — 2026.2")
     print("  Verificação do ambiente")
     print("=" * 52)
     print(f"  Python      {sys.version.split()[0]}")

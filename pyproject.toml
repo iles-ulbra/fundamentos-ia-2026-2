@@ -1,7 +1,7 @@
 [project]
-name = "fundamentos-ia-2026-2-a"
+name = "fundamentos-ia-2026-2"
 version = "0.1.0"
-description = "Laboratórios da disciplina Fundamentos de Inteligência Artificial — 2026.2, Turma A — ILES/ULBRA Itumbiara"
+description = "Laboratórios da disciplina Fundamentos de Inteligência Artificial — 2026.2 — ILES/ULBRA Itumbiara"
 readme = "README.md"
 requires-python = ">=3.12"
 
